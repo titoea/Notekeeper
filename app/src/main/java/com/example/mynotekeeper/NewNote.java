@@ -1,0 +1,1 @@
+System.out.println("Adding a new note");
