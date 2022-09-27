@@ -1,1 +1,1 @@
-System.out.println("Adding a new note");
+System.out.println("Fixing notes");
